@@ -1,0 +1,1 @@
+This is Janos first GIT project!
